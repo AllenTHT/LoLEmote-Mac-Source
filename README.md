@@ -6,7 +6,7 @@
 
 适用设备：Apple Silicon Mac，macOS 13 或更新版本。其他架构尚未进行完整验收。代码采用 [MIT](LICENSE)，游戏素材不属于该许可证。获取和使用素材前，请核对来源及适用许可；公开可下载不等于获得 App 使用或重新分发授权。本项目与 Riot Games 无关联，未获其背书或赞助。参见 [Riot 官方政策](https://www.riotgames.com/en/legal)。
 
-想让 Agent 帮忙配置：打开 [Agent 配置 Prompt](docs/AGENT_SETUP.md)，复制其中内容到能操作你本机的 Agent，并提供本项目的位置。手动配置按下面步骤进行。
+配置：打开 [Agent 配置 Prompt](docs/AGENT_SETUP.md)，复制其中内容到能操作你本机的 Agent，并提供本项目的位置。手动配置按下面步骤进行。
 
 ## 1. 安装工具、下载源码
 
@@ -200,17 +200,6 @@ python3 scripts/check_public_source.py
 | 终端路径被空格截断 | 引号包住路径，或把目录从 Finder 拖到终端。 |
 | 快捷键无响应 | 至少装备一个有图片的表情；检查辅助功能权限、总开关和快捷键是否与其他 App 冲突。 |
 
-## 7. 上传自己的纯源码仓库
-
-本目录应拥有独立 Git 历史，**不要把原来包含素材的 `.git` 复制进来**。原有 `LoLEmote-Mac` 仓库的初始提交含素材，请检查它的可见性；这个新目录不会自动清理旧仓库或改变旧仓库设置。
-
-1. GitHub Desktop 选择 **File → Add Local Repository**，选中这个纯源码目录。若下载 ZIP 后尚未初始化仓库，可按提示创建；不要覆盖已有 README 或忽略规则。
-2. 提交前检查 Changes：应是代码、说明与选定配置，不能出现素材、缓存、设计稿或 `dist`。
-3. 在终端运行 `python3 scripts/check_public_source.py`。用命令行提交时，先 `git add .`，再运行这个检查，通过后才提交；GitHub Desktop 中如有改动则填写说明并提交。
-4. 使用 **Publish repository**，名称例如 `LoLEmote-Mac-Source`，选择可见性，确认发布的是这个独立副本。Desktop 会创建远端仓库，采用这条路线时不用先在网页创建同名仓库。
-5. 如果你已在网页建好空仓库，则在 Desktop 的 **Repository → Repository Settings → Remote** 设置该仓库地址，再推送；不要重复创建同名仓库。
-
-`.gitignore` 不会自动排除已经被追踪的文件，所以不能用旧仓库“删除素材后再提交”来替代新历史。以后下载的素材默认被忽略；不要使用 `git add -f` 强行提交，也不要在 Release 中上传本机包含素材的 App 或素材压缩包。
 
 ## 代码和第三方权利
 
