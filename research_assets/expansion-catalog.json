@@ -1,0 +1,279 @@
+{
+  "version": "16.19",
+  "items": [
+    {
+      "id": 3239,
+      "title": "弱爆",
+      "category": "classic",
+      "aliases": [
+        "倒赞",
+        "塞拉斯",
+        "Sylas"
+      ]
+    },
+    {
+      "id": 1468,
+      "title": "机器人问号",
+      "category": "classic",
+      "aliases": [
+        "无法求解",
+        "机器人吃手",
+        "布里茨",
+        "Blitzcrank"
+      ]
+    },
+    {
+      "id": 1492,
+      "title": "提莫点赞",
+      "category": "classic",
+      "aliases": [
+        "提莫说很好",
+        "Teemo"
+      ]
+    },
+    {
+      "id": 1459,
+      "title": "干得漂亮",
+      "category": "classic",
+      "aliases": [
+        "点赞"
+      ]
+    },
+    {
+      "id": 1495,
+      "title": "20投 / 白旗",
+      "category": "classic",
+      "aliases": [
+        "投降"
+      ]
+    },
+    {
+      "id": 3354,
+      "title": "拓蛙",
+      "category": "classic",
+      "aliases": [
+        "憨憨青蛙"
+      ]
+    },
+    {
+      "id": 3177,
+      "title": "笑哭我了",
+      "category": "classic",
+      "aliases": [
+        "金克丝",
+        "Jinx",
+        "无字版"
+      ]
+    },
+    {
+      "id": 3186,
+      "title": "笑哭我了 · 文字版",
+      "category": "classic",
+      "aliases": [
+        "金克丝",
+        "Jinx"
+      ]
+    },
+    {
+      "id": 3709,
+      "title": "提莫惊讶",
+      "category": "classic",
+      "aliases": [
+        "提莫震惊",
+        "Teemo"
+      ]
+    },
+    {
+      "id": 1030,
+      "title": "拉克丝点赞",
+      "category": "classic",
+      "aliases": [
+        "纯真脸",
+        "棒棒哒",
+        "Lux"
+      ]
+    },
+    {
+      "id": 3270,
+      "title": "流汗猫猫",
+      "category": "classic",
+      "aliases": [
+        "没下次了",
+        "悠米",
+        "Yuumi"
+      ]
+    },
+    {
+      "id": 4125,
+      "title": "急了急了 · iG",
+      "category": "classic",
+      "aliases": [
+        "急了",
+        "IG"
+      ]
+    },
+    {
+      "id": 3278,
+      "title": "电玩 K.O.",
+      "category": "fun",
+      "aliases": [
+        "KO",
+        "动态KO"
+      ]
+    },
+    {
+      "id": 3279,
+      "title": "Game Over",
+      "category": "fun",
+      "aliases": [
+        "游戏结束",
+        "电玩"
+      ]
+    },
+    {
+      "id": 3277,
+      "title": "动态企鹅",
+      "category": "fun",
+      "aliases": [
+        "企鹅大佬",
+        "陶醉企鹅"
+      ]
+    },
+    {
+      "id": 3984,
+      "title": "巴德吹喇叭",
+      "category": "fun",
+      "aliases": [
+        "隆重登场",
+        "Bard"
+      ]
+    },
+    {
+      "id": 3272,
+      "title": "悠米呸",
+      "category": "fun",
+      "aliases": [
+        "不喜欢",
+        "Yuumi"
+      ]
+    },
+    {
+      "id": 3138,
+      "title": "诡话波比",
+      "category": "fun",
+      "aliases": [
+        "波比在此",
+        "Poppy",
+        "恐怖波比"
+      ]
+    },
+    {
+      "id": 3160,
+      "title": "琴女 · 咿呀",
+      "category": "fun",
+      "aliases": [
+        "琴女特殊音效",
+        "娑娜",
+        "Sona",
+        "尴尬的笑",
+        "尴尬"
+      ]
+    },
+    {
+      "id": 3190,
+      "title": "琴女 · 但为什么呢",
+      "category": "fun",
+      "aliases": [
+        "琴女特殊音效",
+        "娑娜",
+        "Sona"
+      ]
+    },
+    {
+      "id": 3933,
+      "title": "琴女 · 好甜喔",
+      "category": "fun",
+      "aliases": [
+        "琴女特殊音效",
+        "娑娜",
+        "Sona"
+      ]
+    },
+    {
+      "id": 4773,
+      "title": "永恩手势舞",
+      "category": "esports",
+      "aliases": [
+        "看我手势",
+        "小虎",
+        "Xiaohu",
+        "Yone"
+      ]
+    },
+    {
+      "id": 4638,
+      "title": "iG · 擦擦iG狗牌",
+      "category": "esports",
+      "aliases": [
+        "IG"
+      ]
+    },
+    {
+      "id": 4649,
+      "title": "OMG · Oh My God",
+      "category": "esports",
+      "aliases": []
+    },
+    {
+      "id": 4635,
+      "title": "AL · 有伞，别怕！",
+      "category": "esports",
+      "aliases": []
+    },
+    {
+      "id": 4636,
+      "title": "BLG · 布噜噜干杯",
+      "category": "esports",
+      "aliases": []
+    },
+    {
+      "id": 4643,
+      "title": "TES · 纳什“搏”弈",
+      "category": "esports",
+      "aliases": []
+    },
+    {
+      "id": 4987,
+      "title": "LGD · 不不不不不！Q！",
+      "category": "esports",
+      "aliases": [
+        "反向Q",
+        "反向 Q",
+        "GodV",
+        "韦神",
+        "S15"
+      ]
+    },
+    {
+      "id": 4091,
+      "title": "岩雀流汗",
+      "category": "classic",
+      "aliases": [
+        "雀实有问题",
+        "Taliyah"
+      ]
+    },
+    {
+      "id": 4730,
+      "title": "炼金捂脸",
+      "category": "classic",
+      "aliases": [
+        "Singed",
+        "如此愚蠢"
+      ]
+    }
+  ],
+  "unresolved": [
+    "科加斯喝茶"
+  ]
+}

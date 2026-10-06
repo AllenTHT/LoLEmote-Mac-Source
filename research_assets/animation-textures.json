@@ -1,0 +1,21 @@
+{
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/EM_ARCADE_KO_Glow.tex": ".asset-cache/expansion/textures/em_arcade_ko_glow.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/EM_ARCADE_KO_VFX.tex": ".asset-cache/expansion/textures/em_arcade_ko_vfx.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/EM_Events_Arcade_Dpengu_Anim_Glow.tex": ".asset-cache/expansion/textures/em_events_arcade_dpengu_anim_glow.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Circle.tex": ".asset-cache/expansion/textures/arcadeemote_circle.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Glow.tex": ".asset-cache/expansion/textures/arcadeemote_glow.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Glow2.tex": ".asset-cache/expansion/textures/arcadeemote_glow2.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Pixel.tex": ".asset-cache/expansion/textures/arcadeemote_pixel.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Star.tex": ".asset-cache/expansion/textures/arcadeemote_star.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/ArcadeEmote_Stripes.tex": ".asset-cache/expansion/textures/arcadeemote_stripes.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_AracdeEmoteK.tex": ".asset-cache/expansion/textures/mt_aracdeemotek.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_ArcadeEmote_O.tex": ".asset-cache/expansion/textures/mt_arcadeemote_o.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_ArcadeEmote_Sheen.tex": ".asset-cache/expansion/textures/mt_arcadeemote_sheen.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_EndPose.tex": ".asset-cache/expansion/textures/mt_endpose.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_SpriteComp.tex": ".asset-cache/expansion/textures/mt_spritecomp.png",
+  "ASSETS/Loadouts/SummonerEmotes/Events/Arcade/Particles/mt_startPose.tex": ".asset-cache/expansion/textures/mt_startpose.png",
+  "ASSETS/Shared/Particles/BrightGlow.tex": ".asset-cache/expansion/textures/brightglow.png",
+  "ASSETS/Shared/Particles/Emotes/Templates/EM_LightBeams_01.tex": ".asset-cache/expansion/textures/em_lightbeams_01.png",
+  "ASSETS/Shared/Particles/Emotes/Templates/EM_Template_Erode_bubbles_01.tex": ".asset-cache/expansion/textures/em_template_erode_bubbles_01.png",
+  "ASSETS/Shared/Particles/Emotes/Templates/EM_Template_Z_Spin_01.tex": ".asset-cache/expansion/textures/em_template_z_spin_01.png"
+}

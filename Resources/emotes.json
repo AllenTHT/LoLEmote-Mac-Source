@@ -1,0 +1,389 @@
+[
+  {
+    "id": 3239,
+    "title": "弱爆",
+    "gameName": "Unworthy",
+    "image": "Emotes/3239.png",
+    "sound": "Sounds/3239.wav",
+    "category": "classic",
+    "aliases": [
+      "倒赞",
+      "塞拉斯",
+      "Sylas",
+      "弱爆"
+    ]
+  },
+  {
+    "id": 1468,
+    "title": "机器人问号",
+    "gameName": "Does Not Compute",
+    "image": "Emotes/1468.png",
+    "sound": "Sounds/1468.wav",
+    "category": "classic",
+    "aliases": [
+      "无法求解",
+      "机器人吃手",
+      "布里茨",
+      "Blitzcrank"
+    ]
+  },
+  {
+    "id": 1492,
+    "title": "提莫点赞",
+    "gameName": "Scout-Approved",
+    "image": "Emotes/1492.png",
+    "sound": "Sounds/1492.wav",
+    "category": "classic",
+    "aliases": [
+      "提莫说很好",
+      "Teemo"
+    ]
+  },
+  {
+    "id": 1459,
+    "title": "干得漂亮",
+    "gameName": "Nice",
+    "image": "Emotes/1459.png",
+    "sound": "Sounds/1459.wav",
+    "category": "classic",
+    "aliases": [
+      "点赞",
+      "干得漂亮"
+    ]
+  },
+  {
+    "id": 1495,
+    "title": "20投 / 白旗",
+    "gameName": "Surrender at 20",
+    "image": "Emotes/1495.png",
+    "sound": "Sounds/1495.wav",
+    "category": "classic",
+    "aliases": [
+      "投降",
+      "20投"
+    ]
+  },
+  {
+    "id": 3354,
+    "title": "拓蛙",
+    "gameName": "Towa Emote",
+    "image": "Emotes/3354.png",
+    "sound": "Sounds/3354.wav",
+    "category": "classic",
+    "aliases": [
+      "憨憨青蛙",
+      "拓蛙 表情"
+    ]
+  },
+  {
+    "id": 3177,
+    "title": "笑哭我了",
+    "gameName": "Wahaha",
+    "image": "Emotes/3177.png",
+    "sound": "Sounds/3177.wav",
+    "category": "classic",
+    "aliases": [
+      "金克丝",
+      "Jinx",
+      "无字版",
+      "笑哭我了"
+    ]
+  },
+  {
+    "id": 3186,
+    "title": "笑哭我了 · 文字版",
+    "gameName": "Wahaha",
+    "image": "Emotes/3186.png",
+    "sound": "Sounds/3186.wav",
+    "category": "classic",
+    "aliases": [
+      "金克丝",
+      "Jinx",
+      "笑哭我了"
+    ]
+  },
+  {
+    "id": 3709,
+    "title": "提莫惊讶",
+    "gameName": "Oh...",
+    "image": "Emotes/3709.png",
+    "sound": "Sounds/3709.wav",
+    "category": "classic",
+    "aliases": [
+      "提莫震惊",
+      "Teemo",
+      "大受震撼"
+    ]
+  },
+  {
+    "id": 1030,
+    "title": "拉克丝点赞",
+    "gameName": "Nice Try",
+    "image": "Emotes/1030.png",
+    "sound": "Sounds/1030.wav",
+    "category": "classic",
+    "aliases": [
+      "纯真脸",
+      "棒棒哒",
+      "Lux"
+    ]
+  },
+  {
+    "id": 3270,
+    "title": "流汗猫猫",
+    "gameName": "Never Again",
+    "image": "Emotes/3270.png",
+    "sound": "Sounds/3270.wav",
+    "category": "classic",
+    "aliases": [
+      "没下次了",
+      "悠米",
+      "Yuumi"
+    ]
+  },
+  {
+    "id": 4125,
+    "title": "急了急了 · iG",
+    "gameName": "LPL: IG - Check That Out!",
+    "image": "Emotes/4125.png",
+    "sound": "Sounds/4125.wav",
+    "category": "classic",
+    "aliases": [
+      "急了",
+      "IG",
+      "急了急了 -iG"
+    ]
+  },
+  {
+    "id": 3278,
+    "title": "电玩 K.O.",
+    "gameName": "Animated K.O.",
+    "image": "Emotes/3278.png",
+    "sound": "Sounds/3278.wav",
+    "category": "fun",
+    "aliases": [
+      "KO",
+      "动态KO",
+      "K.O. 动态表情"
+    ],
+    "animation": "Animations/3278/sequence.json"
+  },
+  {
+    "id": 3279,
+    "title": "Game Over",
+    "gameName": "Game Over",
+    "image": "Emotes/3279.png",
+    "sound": "Sounds/3279.wav",
+    "category": "fun",
+    "aliases": [
+      "游戏结束",
+      "电玩"
+    ]
+  },
+  {
+    "id": 3277,
+    "title": "动态企鹅",
+    "gameName": "Animated D'Pengu",
+    "image": "Emotes/3277.png",
+    "sound": "Sounds/3277.wav",
+    "category": "fun",
+    "aliases": [
+      "企鹅大佬",
+      "陶醉企鹅",
+      "企鹅大佬 动态表情"
+    ],
+    "animation": "Animations/3277/sequence.json"
+  },
+  {
+    "id": 3984,
+    "title": "巴德吹喇叭",
+    "gameName": "Fanfare",
+    "image": "Emotes/3984.png",
+    "sound": "Sounds/3984.wav",
+    "category": "fun",
+    "aliases": [
+      "隆重登场",
+      "Bard"
+    ]
+  },
+  {
+    "id": 3272,
+    "title": "悠米呸",
+    "gameName": "Dislike",
+    "image": "Emotes/3272.png",
+    "sound": "Sounds/3272.wav",
+    "category": "fun",
+    "aliases": [
+      "不喜欢",
+      "Yuumi"
+    ]
+  },
+  {
+    "id": 3138,
+    "title": "诡话波比",
+    "gameName": "Heeere's Poppy!",
+    "image": "Emotes/3138.png",
+    "sound": "Sounds/3138.wav",
+    "category": "fun",
+    "aliases": [
+      "波比在此",
+      "Poppy",
+      "恐怖波比",
+      "波比在此——！"
+    ]
+  },
+  {
+    "id": 3160,
+    "title": "琴女 · 咿呀",
+    "gameName": "Yikes",
+    "image": "Emotes/3160.png",
+    "sound": "Sounds/3160.wav",
+    "category": "fun",
+    "aliases": [
+      "琴女特殊音效",
+      "娑娜",
+      "Sona",
+      "尴尬的笑",
+      "尴尬",
+      "咿呀"
+    ]
+  },
+  {
+    "id": 3190,
+    "title": "琴女 · 但为什么呢",
+    "gameName": "But Why?",
+    "image": "Emotes/3190.png",
+    "sound": "Sounds/3190.wav",
+    "category": "fun",
+    "aliases": [
+      "琴女特殊音效",
+      "娑娜",
+      "Sona",
+      "但为什么呢?"
+    ]
+  },
+  {
+    "id": 3933,
+    "title": "琴女 · 好甜喔",
+    "gameName": "So Sweet!",
+    "image": "Emotes/3933.png",
+    "sound": "Sounds/3933.wav",
+    "category": "fun",
+    "aliases": [
+      "琴女特殊音效",
+      "娑娜",
+      "Sona",
+      "好甜喔！"
+    ]
+  },
+  {
+    "id": 4773,
+    "title": "永恩手势舞",
+    "gameName": "Yowone",
+    "image": "Emotes/4773.png",
+    "sound": "Sounds/4773.wav",
+    "category": "esports",
+    "aliases": [
+      "看我手势",
+      "小虎",
+      "Xiaohu",
+      "Yone"
+    ]
+  },
+  {
+    "id": 4638,
+    "title": "iG · 擦擦iG狗牌",
+    "gameName": "LPL: IG - 2024",
+    "image": "Emotes/4638.png",
+    "sound": "Sounds/4638.wav",
+    "category": "esports",
+    "aliases": [
+      "IG",
+      "LPL：IG - 擦擦iG狗牌"
+    ]
+  },
+  {
+    "id": 4649,
+    "title": "OMG · Oh My God",
+    "gameName": "LPL: OMG - Oh My God",
+    "image": "Emotes/4649.png",
+    "sound": "Sounds/4649.wav",
+    "category": "esports",
+    "aliases": [
+      "LPL：OMG - Oh My God"
+    ]
+  },
+  {
+    "id": 4635,
+    "title": "AL · 有伞，别怕！",
+    "gameName": "LPL: AL - Well Played",
+    "image": "Emotes/4635.png",
+    "sound": "Sounds/4635.wav",
+    "category": "esports",
+    "aliases": [
+      "LPL：AL - 有伞，别怕！"
+    ]
+  },
+  {
+    "id": 4636,
+    "title": "BLG · 布噜噜干杯",
+    "gameName": "LPL: BLG - Bluelue",
+    "image": "Emotes/4636.png",
+    "sound": "Sounds/4636.wav",
+    "category": "esports",
+    "aliases": [
+      "LPL：BLG - 布噜噜干杯"
+    ]
+  },
+  {
+    "id": 4643,
+    "title": "TES · 纳什“搏”弈",
+    "gameName": "LPL: TES - Baron Call",
+    "image": "Emotes/4643.png",
+    "sound": "Sounds/4643.wav",
+    "category": "esports",
+    "aliases": [
+      "LPL：TES - 纳什“搏”弈"
+    ]
+  },
+  {
+    "id": 4987,
+    "title": "LGD · 不不不不不！Q！",
+    "gameName": "Nonono, Q!",
+    "image": "Emotes/4987.png",
+    "sound": "Sounds/4987.wav",
+    "category": "esports",
+    "aliases": [
+      "反向Q",
+      "反向 Q",
+      "GodV",
+      "韦神",
+      "S15",
+      "不不不不不！Q！"
+    ]
+  },
+  {
+    "id": 4091,
+    "title": "岩雀流汗",
+    "gameName": "Magpie Oopsie",
+    "image": "Emotes/4091.png",
+    "sound": "Sounds/4091.wav",
+    "category": "classic",
+    "aliases": [
+      "雀实有问题",
+      "Taliyah"
+    ]
+  },
+  {
+    "id": 4730,
+    "title": "炼金捂脸",
+    "gameName": "Such Foolishness",
+    "image": "Emotes/4730.png",
+    "sound": "Sounds/4730.wav",
+    "category": "classic",
+    "aliases": [
+      "Singed",
+      "如此愚蠢"
+    ]
+  }
+]

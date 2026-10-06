@@ -1,0 +1,27 @@
+# Build outputs and local tools
+.build/
+.venv/
+.asset-cache/
+dist/
+__pycache__/
+*.pyc
+.DS_Store
+
+# User-provided/downloaded/game-derived media (including animation manifests)
+/Resources/Emotes/
+/Resources/Sounds/
+/Resources/Animations/
+/Resources/asset-sources.json
+
+# Generated game-data snapshots and decode evidence
+/research_assets/expansion-sources.json
+/research_assets/expansion-events.json
+/research_assets/animation-build.json
+/research_assets/audio-events/
+
+# Private plans, designs and verification records
+/英雄联盟桌面表情轮盘实现方案.md
+/LoLEmote 表情仓库扩充方案.md
+/research_assets/research_plan.md
+/Verification/
+/VERIFICATION.md

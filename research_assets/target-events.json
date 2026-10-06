@@ -1,0 +1,92 @@
+[
+  {
+    "id": 3239,
+    "name": "弱爆",
+    "vfx": "Loadouts/SummonerEmotes/Particles/Champions/Sylas/EM_Sylas_Unworthy_CN",
+    "event": "Play_sfx_Emotes_Unworthy",
+    "eventId": 3400808320,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.e3692a03.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_TrollMeme",
+        "eventId": 1681667243,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.feedf973.bin.json"
+      }
+    ]
+  },
+  {
+    "id": 1492,
+    "name": "提莫点赞",
+    "vfx": "Loadouts/SummonerEmotes/Particles/Champions/Teemo/EM_Champ_Teemo_Happy_Cheers_01",
+    "event": "Play_sfx_Emotes_ScoutApproved",
+    "eventId": 2294824059,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.2783897e.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_HappyExcited",
+        "eventId": 3420064726,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.3d87c17c.bin.json"
+      }
+    ]
+  },
+  {
+    "id": 3709,
+    "name": "提莫惊讶",
+    "vfx": "Loadouts/SummonerEmotes/Particles/Rewards/WatchRewards/EM_ESPORTS_TEEMO",
+    "event": "Play_sfx_Emotes_3709",
+    "eventId": 597122459,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.1728ffee.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_TrollMeme",
+        "eventId": 1681667243,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.fd41d28b.bin.json"
+      }
+    ]
+  },
+  {
+    "id": 4091,
+    "name": "岩雀流汗",
+    "vfx": "Loadouts/SummonerEmotes/Particles/Events/CN/EM_MAGPIE_OOPSIE",
+    "event": "Play_sfx_Emotes_4091",
+    "eventId": 642799754,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.c4d80981.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_SadBored",
+        "eventId": 1142542560,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.89962b1e.bin.json"
+      }
+    ]
+  },
+  {
+    "id": 1468,
+    "name": "机器人问号",
+    "vfx": "Loadouts/SummonerEmotes/Particles/Champions/Blitzcrank/EM_Champs_Blitzcrank_Sad_Confussed_01",
+    "event": "Play_sfx_Emotes_DoesNotCompute",
+    "eventId": 957207321,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.4155404b.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_HappyExcited",
+        "eventId": 3420064726,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.3d87c17c.bin.json"
+      }
+    ]
+  },
+  {
+    "id": 4730,
+    "name": "炼金捂脸",
+    "vfx": "Loadouts/SummonerEmotes/Particles/EM_Such_Foolishness",
+    "event": "Play_sfx_Emotes_4730",
+    "eventId": 677487922,
+    "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.d6e6ce73.bin.json",
+    "childSoundEvents": [
+      {
+        "event": "Play_sfx_Goodies_Emotes_Template_TrollMeme",
+        "eventId": 1681667243,
+        "source": "https://raw.communitydragon.org/15.24/game/loadouts/summoneremotes.feedf973.bin.json"
+      }
+    ]
+  }
+]
